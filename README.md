@@ -1,15 +1,18 @@
 
-<h1 align="center">Frontend Developer (React)</h1>
+<h1 align="center">Full-Stack Developer </h1>
 
 
-I am a professional Frontend developer specializing in React, I have four years of experience in the field.
+I am a professional Full-Stack developer specializing in React, I have four years of experience in the field.
+Deployed & Delivered Full Stack Web App Project from Scratch using recent technologies.
 I can convert any design into a beautiful active website and pixel-perfect responsive design.
 
 
 ## Main Skills
 - React
+- PHP
 - Wordpress
-- HTML, Css, JavaScript
+- Laravel
+- JavaScript, HTML, Css
 - Sass
 - Tailwind
 
